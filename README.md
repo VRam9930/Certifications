@@ -25,6 +25,10 @@ This portfolio showcases credentials earned from prestigious institutions and pl
 - Machine Learning Foundation
 - Python Foundation
 
+### Cloud & Data Science
+**Oracle Certified Professional**
+- Oracle Cloud Infrastructure 2025 Certified Data Science Professional (Valid until September 2027)
+
 ### Data Engineering & Analytics
 **Database Technologies**
 - MongoDB Basics Certification
@@ -37,6 +41,7 @@ This portfolio showcases credentials earned from prestigious institutions and pl
 
 These certifications validate proficiency in:
 - Backend development and API design
+- Cloud infrastructure and data science solutions
 - Database management and query optimization
 - Machine learning model development and deployment
 - Data pipeline engineering
